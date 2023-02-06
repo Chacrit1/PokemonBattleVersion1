@@ -1,0 +1,16 @@
+E:\docs\c#\PokemonBattle\bin\Debug\PokemonBattle.exe.config
+E:\docs\c#\PokemonBattle\bin\Debug\PokemonBattle.exe
+E:\docs\c#\PokemonBattle\bin\Debug\PokemonBattle.pdb
+E:\docs\c#\PokemonBattle\bin\Debug\Interop.WMPLib.dll
+E:\docs\c#\PokemonBattle\bin\Debug\AxInterop.WMPLib.dll
+E:\docs\c#\PokemonBattle\obj\Debug\PokemonBattle.csproj.AssemblyReference.cache
+E:\docs\c#\PokemonBattle\obj\Debug\PokemonBattle.csproj.SuggestedBindingRedirects.cache
+E:\docs\c#\PokemonBattle\obj\Debug\Interop.WMPLib.dll
+E:\docs\c#\PokemonBattle\obj\Debug\AxInterop.WMPLib.dll
+E:\docs\c#\PokemonBattle\obj\Debug\PokemonBattle.csproj.ResolveComReference.cache
+E:\docs\c#\PokemonBattle\obj\Debug\PokemonBattle.Form1.resources
+E:\docs\c#\PokemonBattle\obj\Debug\PokemonBattle.Properties.Resources.resources
+E:\docs\c#\PokemonBattle\obj\Debug\PokemonBattle.csproj.GenerateResource.cache
+E:\docs\c#\PokemonBattle\obj\Debug\PokemonBattle.csproj.CoreCompileInputs.cache
+E:\docs\c#\PokemonBattle\obj\Debug\PokemonBattle.exe
+E:\docs\c#\PokemonBattle\obj\Debug\PokemonBattle.pdb
